@@ -1,0 +1,11 @@
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.exe
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.pdb
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\calculator.exe
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\calculator.pdb
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\control1.dll
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\control1.pdb
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\usercontrol1.pdb
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.Form1.resources
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+F:\Projects\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
